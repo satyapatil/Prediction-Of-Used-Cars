@@ -13,7 +13,7 @@ Satish Patil | satishppatil02@gmail.com
 
 
 
-- 02 - Index
+ 02 - Index
  - 2.1 Problem Statement
  - 2.2 Business Understanding
  - 2.3 Data Exploration
