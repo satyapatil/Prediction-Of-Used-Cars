@@ -11,11 +11,12 @@ Satish Patil | satishppatil02@gmail.com
 - 1.3 Algorithm
 - 1.4 Data Set
 
-- 02 - Index
 
-2.1 Problem Statement
-2.2 Business Understanding
-2.3 Data Exploration
-2.4 Data Cleaning
-2.5 Data Visualization
-2.6 Model Building
+
+- 02 - Index
+ - 2.1 Problem Statement
+ - 2.2 Business Understanding
+ - 2.3 Data Exploration
+ - 2.4 Data Cleaning
+ - 2.5 Data Visualization
+ - 2.6 Model Building
