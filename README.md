@@ -74,7 +74,12 @@ Parameter                  	Description
 
 
 
-
+Conclusion
+- Random Forest Regressor gives best accurate model when compared with Linear & Decision Tree regressor.
+- Data Cleaning played a major role in achieving better accuracy
+- Visualizing Data helped us alot to identify the patterns of data
+- Removing the outliers increased the model accuracy by 10%, which is a huge improvement
+- Successfully obtained a RandomForestRegression model with 92% of accuracy from the data given.
 
 
 
